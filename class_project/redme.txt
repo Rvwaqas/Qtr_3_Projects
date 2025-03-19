@@ -1,0 +1,11 @@
+1)for use streamlit import command: 
+import streamlit as st
+2)run command:
+streamlit run xyz.py
+3)for text:
+st.text("This is a text")
+4)for  write:
+st.write("This is **just**" for bold we use ** for italik use _test_ ) 
+
+5)
+ 
